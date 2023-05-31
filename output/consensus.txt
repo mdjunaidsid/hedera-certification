@@ -1,0 +1,4 @@
+Your topic ID is: 0.0.10570863
+
+Topic Id: 0.0.10557707
+The message transaction status: SUCCESS

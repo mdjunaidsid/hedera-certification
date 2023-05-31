@@ -1,0 +1,5 @@
+The smart contract byte code file ID is 0.0.10570980
+The smart contract ID is 0.0.10570981
+
+The transaction status of function 1 is SUCCESS
+The transaction status of function 2 is SUCCESS

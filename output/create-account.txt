@@ -1,0 +1,27 @@
+Creating 5 Hedera Accounts(With Initial Balance 50000000000 tinybar) Using Hedera APIs
+-------------------------------------------
+Account 1
+Account Id: 0.0.13726538
+Initial Balance: 50000000000 tinybar
+-------------------------------------------
+-------------------------------------------
+Account 2
+Account Id: 0.0.13726539
+Initial Balance: 50000000000 tinybar
+-------------------------------------------
+-------------------------------------------
+Account 3
+Account Id: 0.0.13726540
+Initial Balance: 50000000000 tinybar
+-------------------------------------------
+-------------------------------------------
+Account 4
+Account Id: 0.0.13726542
+Initial Balance: 50000000000 tinybar
+-------------------------------------------
+-------------------------------------------
+Account 5
+Account Id: 0.0.13726543
+Initial Balance: 50000000000 tinybar
+-------------------------------------------
+Account creation successfully completed. Further details can be found on account-details.json file

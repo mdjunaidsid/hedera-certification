@@ -1,0 +1,18 @@
+An allowance approved from 0.0.10569618 of amount 3500000000 tinybars for account 0.0.10569619 with status SUCCESS
+0.0.10569619 transferring 1500000000 tinybars to 0.0.10569620 using the allowance
+
+Successfully transferred the amount with status SUCCESS
+
+0.0.10569619 transferring 2000000000 tinybars to 0.0.10569622 using the allowance
+
+Successfully transferred the amount with status SUCCESS
+
+Retrying the same transaction again
+
+0.0.10569619 transferring 1500000000 tinybars to 0.0.10569620 using the allowance
+
+Transaction unsuccessful with status SPENDER_DOES_NOT_HAVE_ALLOWANCE
+
+0.0.10569619 transferring 2000000000 tinybars to 0.0.10569622 using the allowance
+
+Transaction unsuccessful with status SPENDER_DOES_NOT_HAVE_ALLOWANCE
